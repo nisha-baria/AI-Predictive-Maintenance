@@ -7,8 +7,6 @@ This project predicts industrial machine failures using IoT sensor data like Tem
 - **Smart Predictions:** Instant alerts for 'Normal' vs 'Failure' states.
 - **Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, Joblib.
 
-[▶️ Click here to watch the Video](./outputs/AI-maintenance-deshboard.mp4)
-
 ## 🚀 How to use
 1. Clone the repo.
 2. Install requirements: `pip install -r requirements.txt`
